@@ -6,8 +6,8 @@ paginate: 5
 params:
   # dir name of your blog content (default is `content/posts`)
   contentTypeName: posts
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor: orange
+  # ["orange", "blue", "red", "green", "gray"]
+  themeColor: blue
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems: 3
   # show selector to switch language
@@ -20,7 +20,7 @@ params:
 languages:
   en:
     languageName: English
-    title: Your site title
+    title: Michele0303 Blog
     subtitle: Your site subtitle
     keywords: ''
     menuMore: Show more
@@ -29,7 +29,7 @@ languages:
 
     params:
       logo:
-        logoText: Terminal
+        logoText: Michele0303
         logoHomeLink: /
 
     menu:
