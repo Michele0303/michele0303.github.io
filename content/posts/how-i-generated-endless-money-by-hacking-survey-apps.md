@@ -49,8 +49,13 @@ My first idea was to search for possible interesting APIs by decompiling and ext
 
 Noticing keywords like "getuserdata" and "adjustpoints" in the endpoints, I think that they might be the APIs I was looking for.
 
-1. I tested the first API by inserting the "invitecode" parameter with a referral code to invite friends, and I noticed that the API worked, as it returned the number of points I had. ![First api](https://i.imgur.com/9Ko5af1.png)
-2. Moving to the second endpoint, I inserted the "uniquecode" parameter with the referral code. ![Second api](https://i.imgur.com/z65Fe8Z.png)
+1. I tested the first API by inserting the "invitecode" parameter with a referral code to invite friends, and I noticed that the API worked, as it returned the number of points I had.
+
+![First api](https://i.imgur.com/9Ko5af1.png)
+
+2. Moving to the second endpoint, I inserted the "uniquecode" parameter with the referral code.
+
+![Second api](https://i.imgur.com/z65Fe8Z.png)
 
 Now, by checking through the first API or using the app, it's possible to notice an arbitrary increase in points, which allows me to redeem unlimited PayPal cash and Amazon gift cards.
 
