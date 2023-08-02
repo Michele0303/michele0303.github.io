@@ -1,20 +1,17 @@
 +++
 title = "How I Generated Endless Money by Hacking Survey Apps"
 date = "2023-07-31T08:02:44+02:00"
-author = "Michele0303"
+author = ""
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["exploitation", "android", "app", "reversing", "api"]
 keywords = ["", ""]
-description = ""
+description = "Vulnerability discovered in some survey apps that allowed manipulation of points and unlimited redemption of rewards"
 showFullContent = false
-readingTime = true
+readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
-
-# Michele0303
-## _Generate Endless Money by Hacking Survey Apps_
 
 ### 1) Introduction
 > Survey apps? Infinite money? What on earth are you talking about?
@@ -63,3 +60,7 @@ Now, by checking through the first API or using the app, it's possible to notice
 
 
 ![Final points app](https://i.imgur.com/27RnzhQ.png)
+
+### 4) Conclusion
+
+The vulnerability has been reported

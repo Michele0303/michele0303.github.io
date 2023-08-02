@@ -15,7 +15,7 @@ params:
   # set theme to full screen width
   fullWidthTheme: false
   # center theme with default width
-  centerTheme: false
+  centerTheme: true
 
 languages:
   en:
@@ -37,3 +37,12 @@ languages:
       - identifier: home
         name: Home
         url: /
+        weight: 10
+      - identifier: github
+        name: Github
+        url: https://github.com/Michele0303/
+        weight: 20
+      - identifier: telegram
+        name: Telegram
+        url: https://t.me/Michele0303
+        weight: 30
